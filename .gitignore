@@ -1,3 +1,6 @@
+#single file
 new-file.txt
-
+#folder
 /bin
+#file type
+*.tmp
